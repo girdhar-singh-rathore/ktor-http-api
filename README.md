@@ -1,4 +1,4 @@
-# HTTP APIs
+# HTTP APIs with Kotlin Ktor
 
 A sample Ktor project showing how to create [HTTP APIs](https://ktor.io/docs/creating-http-apis.html) using Ktor.
 
